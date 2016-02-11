@@ -7,15 +7,15 @@ el cual se encargara del manejo de inscripcion, recepcion de documentos y pagos.
 
 ## Pre-requisitos
 
-1- Debes tener instalado ```gcc, g++```
-2- Instalar [NodeJs](https://nodejs.org/) 
-3- Instalar SailsJs ``` (sudo) npm install -g sails ```
-4- Instalar [node-gyp](https://www.npmjs.com/package/node-gyp-install) ``` (sudo)`npm install -g node-gyp ```
+- Debes tener instalado ```gcc, g++, make```
+- Instalar [NodeJs](https://nodejs.org/) 
+- Instalar SailsJs ```(sudo) npm install -g sails ```
+- Instalar [node-gyp](https://www.npmjs.com/package/node-gyp-install) ``` (sudo) npm install -g node-gyp ```
 
 ## Requisitos 
 ```sh
-	npm install
-	sails lift
+    npm install
+    sails lift
 ```
 
 # License
