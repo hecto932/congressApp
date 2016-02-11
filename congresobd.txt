@@ -1,0 +1,43 @@
+# backusers
+  =========
+	- id 
+	- name *
+	- email *
+	- password *
+	- rememberToken
+	- createdAt
+	- updatedAt
+
+# frontusers
+  ==========
+  	- id
+  	- image
+    - lastName *
+  	- name *
+  	- ci *
+  	- phone *
+  	- email*
+  	- university 
+  	- school 
+  	- remeberToken
+  	- createdAt
+  	- updatedAt
+
+# areas
+  ====
+  	- id
+  	- name
+  	- description
+  	- createdAt
+  	- updatedAt
+
+# works
+  =====
+  	- id 
+  	- title
+  	- campus
+  	- areaId
+  	- createdAt
+  	- updatedAt 
+
+  (*) Campo obligatorio.

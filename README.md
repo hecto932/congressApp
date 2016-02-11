@@ -1,3 +1,31 @@
 # congressApp
 
-a [Sails](http://sailsjs.org) application
+Esta es una aplicación web desarrollada en [Sails](http://sailsjs.org) el cual es un Framework basado en Node.js,
+el cual se encargara del manejo de inscripcion, recepcion de documentos y pagos.
+
+# Uso
+
+## Pre-requisitos
+
+1- Debes tener instalado ```gcc, g++```
+2- Instalar [NodeJs](https://nodejs.org/) 
+3- Instalar SailsJs ``` (sudo) npm install -g sails ```
+4- Instalar [node-gyp](https://www.npmjs.com/package/node-gyp-install) ``` (sudo)`npm install -g node-gyp ```
+
+## Requisitos 
+```sh
+	npm install
+	sails lift
+```
+
+# License
+
+The MIT License (MIT)
+
+Copyright (c) 2016 Hector Jose Flores Colmenarez
+
+Permission is hereby granted, free of charge, to any person obtaining a copy of this software and associated documentation files (the "Software"), to deal in the Software without restriction, including without limitation the rights to use, copy, modify, merge, publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons to whom the Software is furnished to do so, subject to the following conditions:
+
+The above copyright notice and this permission notice shall be included in all copies or substantial portions of the Software.
+
+THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED, INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE AND NONINFRINGEMENT. IN NO EVENT SHALL THE AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM, OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE SOFTWARE.
